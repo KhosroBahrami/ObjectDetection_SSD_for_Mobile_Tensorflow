@@ -1,1 +1,1 @@
-# ObjectDetection using SSD for Mobile Applications using Tensorflow:
+# ObjectDetection for Mobile Applications using Tensorflow:
